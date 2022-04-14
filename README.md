@@ -1,6 +1,6 @@
 ## genre-classification
 ## Implementing Bidirectional LSTM for movie genre classification. 
 
-Results: train accuracy: 0.98, test: 0.865. 
+Dataset: https://www.kaggle.com/datasets/lokkagle/movie-genre-data?resource=download
 
-loss - sparse categorical crossentropy
+Results: train accuracy: 0.98, test: 0.865. 
